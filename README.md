@@ -1,1 +1,1 @@
-# Rice-Grains-count-using-DIP
+# Rice-Grain-Size-Count
